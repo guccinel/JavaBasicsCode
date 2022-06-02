@@ -3,8 +3,8 @@ package com.syntax.class03;
 public class Class01 {
 
 	public static void main(String[] args) {
-		String name="Dava";
-		System.out.println("Good morning "+name);
+String name="Dava";
+System.out.println("Good morning "+name);
 
 		int num=10;
 		int num=11;
@@ -34,13 +34,13 @@ public class Class01 {
 		
 		System.out.println(c+d);//100100
 		
-		Operators:
+		//Operators:
 			
-			assignment=
-			arithmetic +,-,*,/,%
-			shorthand assignment
+			//assignment=
+			//arithmetic +,-,*,/,%
+			//shorthand assignment
 			
-			casting in java -> converting 1 type into another
+			//casting in java -> converting 1 type into another
 			
 			widening / implicit /automatic
 			byte -> short -> int -> long -> float -> double
@@ -48,19 +48,12 @@ public class Class01 {
 			double d=10;
 			System.out.println(d); // 10/0
 			
-			narrowing/ explicit/ manually
-			double -> float -> long -> int -> short -> byte
+			//narrowing/ explicit/ manually
+			//double -> float -> long -> int -> short -> byte
 			int i-100.99;
 			System.out.println(i);//100
 			
-			Conditional Statements
-			If Statement
-			
-			
-			
-		
-			
-
+			//Conditional Statements
+			//If Statement
 	}
-
 }
